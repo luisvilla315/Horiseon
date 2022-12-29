@@ -12,3 +12,4 @@ Application's CSS file is properly commented.
 # This challenge was done using a starter template
 
 View the web-page here
+http://127.0.0.1:5501/index.html
